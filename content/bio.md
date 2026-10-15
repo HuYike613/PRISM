@@ -1,5 +1,15 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+**Tianjin University**  
+M.Eng. in Hydraulic Engineering  
+September 2021 – January 2024
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+**Tianjin University**  
+B.Eng. in Hydraulic and Hydroelectric Engineering  
+September 2017 – July 2021
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+**The Hong Kong University of Science and Technology (HKUST)**  
+Research Assistant, Civil Engineering  
+September 2024 – January 2025
+
+**The Hong Kong University of Science and Technology (HKUST)**  
+Ph.D Student, Civil Engineering  
+January 2025 – Now
