@@ -16,7 +16,12 @@
 
 ## 学术服务
 
-**Engineering Applications of Artificial Intelligence**，审稿人，*2023 年 9 月 – 至今*
+- **审稿人（Reviewer）**，*Engineering Applications of Artificial Intelligence*
+- **审稿人（Reviewer）**，*Advanced Engineering Informatics*
+- **审稿人（Reviewer）**，*Journal of Rock Mechanics and Geotechnical Engineering*
+- **审稿人（Reviewer）**，*Image and Vision Computing*
+- **审稿人（Reviewer）**，*Energy and Buildings*
+- **审稿人（Reviewer）**，*Heritage Science*
 
 ## 技能
 
