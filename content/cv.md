@@ -56,7 +56,7 @@ Tianjin University
 
 ## Technical Skills
 
-- **Programming:** Python, C++
+- **Programming:** Python, LaTeX
 - **Deep Learning:** PyTorch, Detectron2, MMDetection, Ultralytics
 - **Computer Vision:** Image Processing, Instance Segmentation, Object Detection, Dataset Synthesis
 - **3D Modeling and Design:** Autodesk CAD, 3ds Max, Revit
