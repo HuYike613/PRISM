@@ -3,8 +3,15 @@ title = "教学"
 description = "我曾参与授课或助教的课程。"
 
 [[items]]
-title = "示例课程"
+title = "CIVL-3310 Structural Analysis"
 subtitle = "助教"
-date = "2024"
-content = "课程内容与职责简介。"
-tags = ["本科生", "计算机"]
+date = "2025"
+content = "结构力学"
+tags = ["本科生", "土木工程"]
+
+[[items]]
+title = "CIVL-2210 Structural Analysis"
+subtitle = "助教"
+date = "2026"
+content = "静力学"
+tags = ["本科生", "土木工程"]
