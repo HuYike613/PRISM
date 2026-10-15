@@ -76,5 +76,14 @@ Tianjin University
 
 ## Academic Service
 
-**Reviewer**, *Engineering Applications of Artificial Intelligence*
-*September 2023 – Present*
+**Peer Reviewer**, *Engineering Applications of Artificial Intelligence*  
+
+**Peer Reviewer**, *Advanced Engineering Informatics*
+
+**Peer Reviewer**, *Journal of Rock Mechanics and Geotechnical Engineering*
+
+**Peer Reviewer**, *Image and Vision Computing*
+
+**Peer Reviewer**, *Energy and Buildings*
+
+**Peer Reviewer**, *Heritage Science*
