@@ -10,7 +10,7 @@ content = "结构力学"
 tags = ["本科生", "土木工程"]
 
 [[items]]
-title = "CIVL-2210 Structural Analysis"
+title = "CIVL-2210 Statics"
 subtitle = "助教"
 date = "2026"
 content = "静力学"
